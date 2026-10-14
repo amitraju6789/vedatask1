@@ -14,3 +14,5 @@ A console-based Java ATM application supporting account authentication, balance 
 2. Compile the Java source file:
    ```bash
    javac task8/ATMSimulation.java
+   java task8.ATMSimulation
+   ```

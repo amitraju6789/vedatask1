@@ -13,3 +13,5 @@ A Java application demonstrating constructor overloading and constructor chainin
 2. Compile the Java source file:
    ```bash
    javac task10/ConstructorOverloadingDemo.java
+   java task10.ConstructorOverloadingDemo
+   ```

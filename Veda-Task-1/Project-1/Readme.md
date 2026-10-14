@@ -19,3 +19,5 @@ A simple Java-based command-line calculator built to perform basic arithmetic op
 3. Compile the Java file:
    ```bash
    javac Calculator.java
+   java Calculator
+   ```

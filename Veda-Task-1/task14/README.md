@@ -13,3 +13,5 @@ A Java application demonstrating abstraction and inheritance by defining an abst
 2. Compile the Java source file:
    ```bash
    javac task14/ShapeCalculatorDemo.java
+   java task14.ShapeCalculatorDemo
+   ```

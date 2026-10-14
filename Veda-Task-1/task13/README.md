@@ -13,3 +13,5 @@ A Java application demonstrating runtime polymorphism and dynamic method dispatc
 2. Compile the Java source file:
    ```bash
    javac task13/RuntimePolymorphismDemo.java
+   java task13.RuntimePolymorphismDemo
+   ```

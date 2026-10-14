@@ -13,3 +13,5 @@ A modular, console-based Java application designed using core Object-Oriented Pr
 2. Compile the Java source file:
    ```bash
    javac task11/EmployeeManagementSystem.java
+   java task11.EmployeeManagementSystem
+   ```

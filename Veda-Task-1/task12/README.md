@@ -13,3 +13,5 @@ A Java application demonstrating Object-Oriented Programming inheritance by mode
 2. Compile the Java source file:
    ```bash
    javac task12/EmployeeHierarchyDemo.java
+   java task12.EmployeeHierarchyDemo
+   ```

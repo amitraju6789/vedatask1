@@ -19,3 +19,5 @@ A simple Java-based command-line game where the application generates a random n
 3. Compile the Java file:
    ```bash
    javac NumberGuessingGame.java
+   java NumberGuessingGame
+   ```

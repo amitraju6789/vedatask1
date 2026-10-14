@@ -13,3 +13,5 @@ A Java console application that checks whether a given string or number is a pal
 2. Compile the Java file:
    ```bash
    javac task6/PalindromeChecker.java
+   java task6.PalindromeChecker
+   ```

@@ -13,3 +13,5 @@ A Java command-line tool for checking prime numbers and generating primes within
 2. Compile the Java source file:
    ```bash
    javac task7/PrimeAnalysis.java
+   java task7.PrimeAnalysis
+   ```

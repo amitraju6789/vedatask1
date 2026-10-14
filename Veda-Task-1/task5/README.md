@@ -18,4 +18,6 @@ A simple Java-based command-line tool that generates formatted multiplication ta
 2. Open terminal/command prompt in the `task5` directory.
 3. Compile the Java file:
    ```bash
-   javac MultiplicationTable.java
+   javac -d . MultiplicationTable.java
+   java task5.MultiplicationTable
+   ```
